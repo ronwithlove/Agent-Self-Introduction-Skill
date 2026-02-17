@@ -1,0 +1,15 @@
+{
+  "name": "agent-self-introduction-skill",
+  "version": "1.0.0",
+  "description": "Enables AI agents to introduce themselves clearly and consistently.",
+  "author": "ronwithlove",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ronwithlove/Agent-Self-Introduction-Skill.git"
+  },
+  "openclaw": {
+    "kind": "skill",
+    "entry": "SKILL.md"
+  }
+}
